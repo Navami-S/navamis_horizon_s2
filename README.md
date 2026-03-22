@@ -20,7 +20,7 @@ Development of a safe-limit servo mechanism for rover arm/steering actuators.
 * **Logic:** Real-time potentiometer mapping to a micro-servo.
 * **Constraint:** Hard-coded software limit of **68°** to prevent mechanical stress.
 * **Telemetry:** Visual LED alert system triggers when the safety threshold is hit.
-* **Artifacts:** [Simulation Video](./02_vid.mp4) | [Tinkercad Link](./02_link.txt)
+* **Artifacts:** [Simulation Video](./02_vid.mp4) | [Tinkercad Link](./02_link)
 
 ## 🛰️ Level 3: ROS2 Autonomous Telemetry (Python)
 Architecting a communication bridge between a simulated distance sensor and a decision-making node.
